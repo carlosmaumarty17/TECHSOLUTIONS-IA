@@ -1,3 +1,51 @@
+# 🚀 TechSolutions IA
+
+✨ Donde nacen las ideas, se hacen realidad en segundos. ✨  
+
+---
+
+## 📌 Introducción
+
+**TechSolutions IA** es la inteligencia artificial desarrollada por **TechSolutions**, una empresa de desarrollo de software y emprendimiento digital.  
+
+Hemos creado una herramienta **gratuita e innovadora** que transforma tus ideas en proyectos reales en cuestión de segundos.  
+
+A diferencia de otras plataformas de pago y con restricciones, **TechSolutions IA** está diseñada para ser **accesible, sin límites y 100% gratuita**.  
+
+---
+
+## 🌟 Lo que ofrece TechSolutions IA
+
+- 💡 Convierte tus ideas en prototipos digitales de manera automática.  
+- ⚡ Rápida, eficiente y sin complicaciones.  
+- 🔒 Sin costos ocultos ni restricciones.  
+- 🌍 Accesible para emprendedores, startups y empresas de cualquier tamaño.  
+
+---
+
+## 🎯 Nuestra visión
+
+**Democratizar la tecnología** y poner la innovación al alcance de todos.  
+
+Con **TechSolutions IA**, cualquier persona puede transformar su idea en un proyecto funcional sin preocuparse por costos o limitaciones.  
+
+---
+
+## 📬 Contáctanos
+
+- 📧 **Email:** carlosmaumarty17@gmail.com  
+- 🌐 **Web:** [www.techsolutions.com](http://www.techsolutions.com)  
+- 💼 **LinkedIn:** [TechSolutions](https://www.linkedin.com)  
+
+---
+
+## 👨‍💻 Autor
+
+Creado con ❤️ por **Carlos Martínez**  
+*Ingeniero de Sistemas & Desarrollador Web* 🧑‍💻✨  
+
+
+
 # bolt.diy
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
