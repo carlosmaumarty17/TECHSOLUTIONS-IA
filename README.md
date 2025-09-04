@@ -57,3 +57,17 @@ Start the Application:
 ## 📌 Hashtags  
 
 #TechSolutionsIA #Innovación #InteligenciaArtificial #DesarrolloGratuito #TransformaTusIdeas  
+
+
+<img width="741" height="428" alt="api-key-ui-section" src="https://github.com/user-attachments/assets/fb576074-f4b7-492a-9f30-d737842e699c" />
+<img width="905" height="737" alt="provider-base-url" src="https://github.com/user-attachments/assets/383e0593-f870-43aa-aa03-f30c7055bb30" />
+<img width="1920" height="1080" alt="Captura de pantalla 2025-09-04 121349" src="https://github.com/user-attachments/assets/abb3ffc3-1ed1-411a-a9d4-38c085900715" />
+<img width="1920" height="1080" alt="Captura de pantalla 2025-09-04 121406" src="https://github.com/user-attachments/assets/9aa72262-ee03-467b-83fe-50e704c5326b" />
+<img width="1920" height="1080" alt="Captura de pantalla 2025-09-04 122158" src="https://github.com/user-attachments/assets/9b5f9760-2817-44ee-8cd3-4288681e685e" />
+<img width="1920" height="1080" alt="Captura de pantalla 2025-09-04 122222" src="https://github.com/user-attachments/assets/6a91464f-d408-49e0-b4b0-526404fe9e38" />
+
+
+
+
+
+
