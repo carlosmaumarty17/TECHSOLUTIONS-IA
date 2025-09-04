@@ -3,7 +3,7 @@
 En **TechSolutions**, nos enorgullece presentar nuestra propia inteligencia artificial: **TechSolutions IA**.  
 Hemos creado una herramienta revolucionaria que transforma tus ideas en proyectos concretos en cuestión de segundos.  
 
-A diferencia de otras plataformas, como *Bolt.nuuk*, que requieren pagos y tienen limitaciones de uso, **TechSolutions IA está completamente disponible de manera gratuita**.  
+A diferencia de otras plataformas, como *Bolt.new*, *lavable.dev* que requieren pagos y tienen limitaciones de uso, **TechSolutions IA está completamente disponible de manera gratuita**.  
 ¡Sí, has leído bien! 🙌 Sin costos, sin límites y con toda la eficiencia que necesitas.  
 
 ---
@@ -38,6 +38,21 @@ Con **TechSolutions IA**, la innovación está al alcance de tu mano ✋✨, sin
 📣 Descubre más en: [www.techsolutions.com](http://www.techsolutions.com)  
 
 ---
+
+## Option 1: Direct Installation (Recommended for Beginners)
+Install Package Manager (pnpm):
+
+## Option 2:
+**npm install -g pnpm**
+Install Project Dependencies:
+
+## Option 3:
+**pnpm install**
+Start the Application:
+
+## Option 4:
+**pnpm run dev**
+
 
 ## 📌 Hashtags  
 
