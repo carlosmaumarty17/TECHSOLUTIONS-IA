@@ -38,6 +38,9 @@ Con **TechSolutions IA**, la innovación está al alcance de tu mano ✋✨, sin
 📣 Descubre más en: [www.techsolutions.com](http://www.techsolutions.com)  
 
 ---
+## OPCION PRIMORDIAL E IMPORTANTE CLONAR EL REPSOITORIO
+**https://github.com/carlosmaumarty17/TECHSOLUTIONS-IA**
+
 
 ## Option 1: Direct Installation (Recommended for Beginners)
 Install Package Manager (pnpm):
